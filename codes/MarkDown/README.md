@@ -1,5 +1,6 @@
 
-
+# Markdown基本语法
+## 作者：[Aaron Swartz和John Gruber](http://younghz.github.io/Markdown/)
 Markdown语法主要分为如下几大部分：
 **标题**，**段落**，**区块引用**，**代码区块**，**强调**，**列表**，**分割线**，**链接**，**图片**，**反斜杠 `\`**，**符号'`'**。
 
